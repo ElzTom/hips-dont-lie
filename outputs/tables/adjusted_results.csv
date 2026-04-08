@@ -1,0 +1,4 @@
+Outcome,Model,n,Estimate,95% CI,P-value,Interpretation
+30-day mortality,Logistic regression,45778,OR 0.96,0.88 – 1.03,0.262,Odds of dying within 30 days
+Discharge to aged care,Logistic regression,45778,OR 1.02,0.94 – 1.09,0.675,Odds of being discharged to aged care (vs home/rehab)
+Length of stay (acute),Linear regression (log LOS),44899,-0.1%,-1.2% – +1.0%,0.814,% difference in LOS vs not malnourished

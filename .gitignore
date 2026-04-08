@@ -1,0 +1,16 @@
+# Data — raw and processed (never commit patient data)
+data/raw/
+data/processed/
+
+# Presentation
+presentation/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# OS
+.DS_Store
+Thumbs.db
